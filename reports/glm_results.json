@@ -1,0 +1,6 @@
+{
+  "model": "Poisson GLM",
+  "naive_deviance": 0.3293952656959494,
+  "test_deviance": 0.3191445621187486,
+  "gini": -0.047309252098169274
+}
