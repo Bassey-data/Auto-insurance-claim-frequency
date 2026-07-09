@@ -1,0 +1,7 @@
+{
+  "model": "LightGBM Poisson",
+  "naive_deviance": 0.3293952656959494,
+  "test_deviance": 0.3015689197348725,
+  "gini": 0.1009721786699096,
+  "best_iteration": 1985
+}
